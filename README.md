@@ -9,4 +9,4 @@ This repository is currently just a placeholder repository for updates yet to co
 
 Pending further updates, here are some resources that involve methods (likely) similar the ones you might have been looking for here:
 
-- [DeepNSD]: Code and data for large-scale controlled comparison of DNN models in prediction of human ventral visual cortex activity.
+- [DeepNSD](https://github.com/ColinConwell/DeepNSD): Code and data for large-scale controlled comparison of DNN models in prediction of human ventral visual cortex activity.
